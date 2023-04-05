@@ -348,3 +348,7 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+src/VWabbitLab/.cache.writing
+src/VWabbitLab/rcv1.model
+src/VWabbitLab/test1.model
+src/VWabbitLab/test2.model
